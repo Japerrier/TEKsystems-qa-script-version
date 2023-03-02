@@ -49,3 +49,5 @@ try:
     checkout.click()
 except:
     driver.quit()
+
+# Stopped here so I'm not doing checkout on a real account. Would automate checkout on a testing account.
